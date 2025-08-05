@@ -101,7 +101,7 @@ const DigitalAgencyHero = () => {
 
           <div className="experience-box">
             <h2>1000+</h2>
-            <p>Successfully Completed Projects in o</p>
+            <p>Successfully Completed Projects</p>
           </div>
         </div>
 
