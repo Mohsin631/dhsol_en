@@ -22,7 +22,7 @@ export default function ScheduleMeetingSection() {
               priority
             />
             <Link href="/contact" className="schedule-btn">
-              Schedule a Meeting
+              Schedule a Meeting s
             </Link>
           </div>
         </div>
